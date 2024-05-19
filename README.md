@@ -9,5 +9,5 @@ Foi utilizado PHP e diversas formas de estilização para web.
 Entregue com a hospedagem grátis disponível pelo Award Space.
 # Notas
 A representação © de copyright com o ano atual é para demonstração. 
-O projeto foi entregue em finais de 2022 e está hospedado até o momento em que publico essa nota.
-\nPublicado em: /18/05/2024/.
+O projeto foi entregue ao final de 2022 e está hospedado funcionando até o momento em que publico essa nota.
+__Publicado em: /18/05/2024/.
