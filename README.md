@@ -1,6 +1,6 @@
 # Filmes_PHP_Javascript_2022
 Atividade Realizada em 2022.
-Feito por José Roberto Lisboa da Silva Filho em dupla nessa atividade com Lucas.
+Feito por José Roberto Lisboa da Silva Filho.
 Projeto para conclusão do segundo ano do técnico em Desenvolvimento de Sistemas na Etec Fernando Prestes pela Extensão Fatec.
 # Breve Descrição
 Site com as funções de login, cadastro, exclusão e alteração de usuários e filmes.
